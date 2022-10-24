@@ -1,10 +1,12 @@
-Hi 👋 It's Sajid Shahzad
+Hi 👋 My name is Sajid Shahzad
 ==============================
 
 I'm Data Scientist Enthusiast
 -----------------------------
 
+* 🌍  I'm based in Bahawalpur
 * ✉️  You can contact me at [sajidshahzad266@gmail.com](mailto:sajidshahzad266@gmail.com)
+* 🧠  I'm learning Machine Learning/Deep Learning/
 
 ### Skills
 
@@ -23,7 +25,7 @@ I'm Data Scientist Enthusiast
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sajidshahzad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/sajid.shahzad.5203/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sajidshahzad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sajid-shahzad-b0528a179/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sajidshahzad266" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sajidonweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
