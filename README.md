@@ -1,4 +1,4 @@
-Hi 👋 My name is Sajid Shahzad
+Hi 👋 I'm Sajid Shahzad
 ==============================
 
 I'm Data Scientist Enthusiast
