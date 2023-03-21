@@ -4,9 +4,11 @@ Hi 👋 I'm Sajid Shahzad
 I'm Data Scientist Enthusiast
 -----------------------------
 
-* 🌍  I'm based in Bahawalpur
-* ✉️  You can contact me at [sajidshahzad266@gmail.com](mailto:sajidshahzad266@gmail.com)
-* 🧠  I'm learning Machine Learning/Deep Learning/
+I am a passionate data scientist who has always been fascinated by the power of data analysis and machine learning. I poured my heart and soul into pursuing my dream of landing a job in this field. However, despite my best efforts and qualifications, I was unable to secure a job.
+
+But I refused to let this setback dampen my spirits. Instead, I decided to pivot and explore a new field that also intrigued me: iOS application development. I threw myself into learning new skills and building my own apps. Soon, I found myself immersed in this exciting new world, and the joy of seeing my creations come to life gave me a renewed sense of purpose and passion. Though the road was not easy, I never gave up, and my determination ultimately paid off. Today, I am a successful iOS developer, inspired to share my story with others and encourage them to pursue their own passions, no matter where they may lead.
+
+
 
 ### Skills
 
@@ -35,6 +37,6 @@ I'm Data Scientist Enthusiast
 
 <a href="http://www.github.com/sajidshahzad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidshahzad&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sajidshahzad"><img src="https://activity-graph.herokuapp.com/graph?username=sajidshahzad&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sajidshahzad"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sajidshahzad&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/sajidshahzad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidshahzad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
